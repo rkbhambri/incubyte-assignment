@@ -1,0 +1,1 @@
+To run this project execute command npx jest
