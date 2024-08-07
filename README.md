@@ -1,1 +1,1 @@
-To run this project execute command npx jest
+To run this project execute command npm run test
